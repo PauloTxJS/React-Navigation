@@ -7,8 +7,8 @@ import TelaC from './views/TelaC';
 
 export default props => (
     <SafeAreaView style={{flex: 1}}>
-        <TelaA>App</TelaA>
-        <TelaB>App</TelaB>
-        <TelaC>App</TelaC>
+        <TelaA />
+        <TelaB />
+        <TelaC />
     </SafeAreaView>
 )
